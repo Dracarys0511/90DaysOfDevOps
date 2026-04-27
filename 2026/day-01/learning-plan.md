@@ -8,7 +8,7 @@
 
 &#x20;  - A one click Complete CI/CD Pipeline deployment with Monitoring
 
-3\.  3 core DevOps skills I want to build:
+3.  3 core DevOps skills I want to build:
 
 &#x20;  - Docker, Kubernetes and Jenkins mastery
 
